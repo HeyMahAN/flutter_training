@@ -12,7 +12,7 @@ class InstaUI extends StatelessWidget {
             const SizedBox(height: 10),
             const InstaAppBar(),
             const Divider(),
-            const SizedBox(height: 20),
+            // const SizedBox(height: 20),
             const PostHeading(),
             const SizedBox(height: 10),
             Stack(
